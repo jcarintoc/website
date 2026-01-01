@@ -502,5 +502,11 @@ export default [
         summary: "An all inclusive website that lets users track everything including anime, manga and manhwa!",
         imageUrl: "https://files.catbox.moe/zb6ni3.png",
         url: "https://mymediatracker.vercel.app/",
+    },
+    {
+        title: "Bingeki",
+        summary: "Your ultimate anime companion to track progress, discover new works, and challenge friends.",
+        imageUrl: "https://bingeki.web.app/logo.png",
+        url: "https://bingeki.web.app/",
     }
 ]
