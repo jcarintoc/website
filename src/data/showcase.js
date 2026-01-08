@@ -504,6 +504,12 @@ export default [
         url: "https://mymediatracker.vercel.app/",
     },
     {
+        title: "Bingeki",
+        summary: "Your ultimate anime companion to track progress, discover new works, and challenge friends.",
+        imageUrl: "https://bingeki.web.app/logo.png",
+        url: "https://bingeki.web.app/",
+    },
+    {
         title: "Anime-Dunya",
         summary: "Founded by anime enthusiasts from the Middle East, Anime-Dunya.com is a free, ad-free streaming community designed to bridge cultures by providing premium Full HD anime with tailored multilingual support.",
         imageUrl: "https://cdn.anime-dunya.com/misc/screenshot.png",
