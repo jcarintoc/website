@@ -508,5 +508,17 @@ export default [
         summary : "This plugin creates a page in Obsidian from your anime list.",
         imageUrl: "https://github.com/Xmoncoco/my_anime_list_text_exporter/blob/main/projectimage.png?raw=true",
         url: "https://github.com/Xmoncoco/my_anime_list_text_exporter"
+    },
+    {
+        title: "Bingeki",
+        summary: "Your ultimate anime companion to track progress, discover new works, and challenge friends.",
+        imageUrl: "https://bingeki.web.app/logo.png",
+        url: "https://bingeki.web.app/",
+    },
+    {
+        title: "Anime-Dunya",
+        summary: "Founded by anime enthusiasts from the Middle East, Anime-Dunya.com is a free, ad-free streaming community designed to bridge cultures by providing premium Full HD anime with tailored multilingual support.",
+        imageUrl: "https://cdn.anime-dunya.com/misc/screenshot.png",
+        url: "https://anime-dunya.com",
     }
 ]
