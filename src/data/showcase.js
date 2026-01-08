@@ -504,6 +504,12 @@ export default [
         url: "https://mymediatracker.vercel.app/",
     },
     {
+        title: "my anime list text exporter",
+        summary : "This plugin creates a page in Obsidian from your anime list.",
+        imageUrl: "https://github.com/Xmoncoco/my_anime_list_text_exporter/blob/main/projectimage.png?raw=true",
+        url: "https://github.com/Xmoncoco/my_anime_list_text_exporter"
+    },
+    {
         title: "Bingeki",
         summary: "Your ultimate anime companion to track progress, discover new works, and challenge friends.",
         imageUrl: "https://bingeki.web.app/logo.png",
