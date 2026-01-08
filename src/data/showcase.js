@@ -502,10 +502,29 @@ export default [
         summary: "An all inclusive website that lets users track everything including anime, manga and manhwa!",
         imageUrl: "https://files.catbox.moe/zb6ni3.png",
         url: "https://mymediatracker.vercel.app/",
-    }, {
+    }, 
+    {
         title: "AniHaven🎌",
         summary: "An anime discovery app with recommendations for newbies",
         imageUrl: "https://portfolio-pi-seven-48.vercel.app/assets/home-GgO_fKTe.png",
         url: "https://creeksonjoseph.github.io/AniHaven/",
+    },
+    {
+        title: "my anime list text exporter",
+        summary : "This plugin creates a page in Obsidian from your anime list.",
+        imageUrl: "https://github.com/Xmoncoco/my_anime_list_text_exporter/blob/main/projectimage.png?raw=true",
+        url: "https://github.com/Xmoncoco/my_anime_list_text_exporter"
+    },
+    {
+        title: "Bingeki",
+        summary: "Your ultimate anime companion to track progress, discover new works, and challenge friends.",
+        imageUrl: "https://bingeki.web.app/logo.png",
+        url: "https://bingeki.web.app/",
+    },
+    {
+        title: "Anime-Dunya",
+        summary: "Founded by anime enthusiasts from the Middle East, Anime-Dunya.com is a free, ad-free streaming community designed to bridge cultures by providing premium Full HD anime with tailored multilingual support.",
+        imageUrl: "https://cdn.anime-dunya.com/misc/screenshot.png",
+        url: "https://anime-dunya.com",
     }
 ]
