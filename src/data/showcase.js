@@ -502,6 +502,12 @@ export default [
         summary: "An all inclusive website that lets users track everything including anime, manga and manhwa!",
         imageUrl: "https://files.catbox.moe/zb6ni3.png",
         url: "https://mymediatracker.vercel.app/",
+    }, 
+    {
+        title: "AniHaven🎌",
+        summary: "An anime discovery app with recommendations for newbies",
+        imageUrl: "https://portfolio-pi-seven-48.vercel.app/assets/home-GgO_fKTe.png",
+        url: "https://creeksonjoseph.github.io/AniHaven/",
     },
     {
         title: "my anime list text exporter",
