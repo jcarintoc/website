@@ -172,6 +172,15 @@ export default [
     },
     {
         type: "Wrapper",
+        author: "sbrocos",
+        title: "Jikanrb",
+        language: "ruby",
+        supportsV3: false,
+        supportsV4: true,
+        url: "https://github.com/sbrocos/jikanrb",
+    },
+    {
+        type: "Wrapper",
         author: "Rafal Wachol",
         title: "jikan-dart",
         language: "dart",
