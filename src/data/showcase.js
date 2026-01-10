@@ -518,7 +518,7 @@ export default [
     {
         title: "Bingeki",
         summary: "Your ultimate anime companion to track progress, discover new works, and challenge friends.",
-        imageUrl: "https://bingeki.web.app/logo.png",
+        imageUrl: "https://bingeki.web.app/bingeki-preview.png",
         url: "https://bingeki.web.app/",
     },
     {
