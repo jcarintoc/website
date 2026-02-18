@@ -534,4 +534,11 @@ export default [
       imageUrl: "https://morime.vercel.app/screenshot.png",
       url: "https://morime.vercel.app",
     },
+    {
+      title: "AniView",
+      summary:
+        "Aniview is an anime discovery and viewing platform similar to MyAnimeList, powered by the Jikan API. It provides access to the current anime season, producers, and a comprehensive catalog.",
+      imageUrl: "https://aniview-avw.vercel.app/screenshot.png",
+      url: "https://aniview-avw.vercel.app",
+    }
 ]
